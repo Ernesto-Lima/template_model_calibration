@@ -31,6 +31,7 @@ Ensure you have Python 3 installed on your system. You can then install the depe
 
 ```bash
 pip install numpy matplotlib scipy emcee corner
+```
 
 ## Key Features
 
