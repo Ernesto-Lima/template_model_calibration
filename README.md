@@ -24,13 +24,14 @@ where:
 - SciPy
 - emcee
 - corner
+- tqdm
 
 ## Installation
 
 Ensure you have Python 3 installed on your system. You can then install the dependencies using pip:
 
 ```bash
-pip install numpy matplotlib scipy emcee corner
+pip install numpy matplotlib scipy emcee corner tqdm
 ```
 
 ## Key Features
